@@ -31,54 +31,6 @@
       "image": "https://fossbytes.com/wp-content/uploads/2019/03/duolingo-640x360.jpg",
       "date": "Today",
       "background_image": ""
-    },
-
-    {
-      "name": "Asus Zenfone Max Pro M2 Review — Continuing The Legacy Of Max Pro M1!",
-      "description": "With Xiaomi dominating the mid-segment smartphone market, you have a lot of options if you are planning to purchase a sub Rs. 15,000 budget smartphone. Asus has presented a new and a quite worthy candidate in the form of Asus ZenFone Max Pro M2 which is much more than an incremental update over the hugely popular ZenFone Max Pro M1.",
-      "image": "https://images.indianexpress.com/2018/12/Asus_ZenfoneReview_LEAD.jpg",
-      "date": "Today",
-      "background_image": ""
-    },
-
-    {
-      "name": "Bill Gates’ List Of Top 10 Breakthrough Technologies In 2019!",
-      "description": "Every year, MIT announces a Technology Review list featuring different kinds of tech that will have a significant impact in the coming year. MIT has been following this trend for more than 18 years. But this time it’s a little different. For 2019, the top 10 technology list is hand-picked by the contributing editor and a former MIT student — Bill Gates; founder and former CEO of Microsoft.",
-      "image": "https://fossbytes.com/wp-content/uploads/2019/03/Tech-in-2019-640x360.jpg",
-      "date": "Today",
-      "background_image": ""
-    },
-
-    {
-      "name": "Ubuntu 18.04.2 LTS Is Here With New Hardware Enablement Stack!",
-      "description": "Canonical has finally released the second point release of its Ubuntu 18.04 Bionic Beaver LTS operating system. Ubuntu 18.04.2 follows Ubuntu 18.04.1 LTS, which arrived last year in July.",
-      "image": "https://fossbytes.com/wp-content/uploads/2019/02/ubuntu-18.04.2-lts-640x360.png",
-      "date": "Today",
-      "background_image": ""
-    },
-
-    {
-      "name": "Apple Confirms ‘It’s Show Time’ Event For March 25!",
-      "description": "As speculated, Apple has finally sent out invites for its special event to be held at Steve Jobs Theater in Cupertino on March 25th. Carrying the tagline, “It’s Show Time,” the event is expected to be about Apple’s upcoming video streaming service and news service..",
-      "image": "https://fossbytes.com/wp-content/uploads/2019/03/Apple-march-Event-640x360.jpg",
-      "date": "Today",
-      "background_image": ""
-    },
-
-    {
-      "name": "If Elon Musk Designed A Phone, This Is What It Would Look Like!",
-      "description": "Elon Musk makes headlines every other day for his outrageous yet funny tweets. But what if he begins to feature in the news for his smartphones? A concept precisely hints at one we might see in the future.",
-      "image": "https://fossbytes.com/wp-content/uploads/2019/03/Tesla-C1-640x360.jpg",
-      "date": "Today",
-      "background_image": ""
-    },
-
-    {
-      "name": "The Application is still under Development!",
-      "description": "This is the 1st version of my application. More properties will be added soon!",
-      "image": "https://cdn.lynda.com/course/520220/520220-636136853521823826-16x9.jpg",
-      "date": "",
-      "background_image": ""
     }
   ]
 }
